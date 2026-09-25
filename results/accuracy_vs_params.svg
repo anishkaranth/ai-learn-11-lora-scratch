@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="288pt" viewBox="0 0 432 288" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 288 L 432 288 L 432 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 60.9 245.9 L 421.2 245.9 L 421.2 26.2 L 60.9 26.2 z" style="fill: #ffffff"/>
+<defs>
+<path id="mca45e81639" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#mca45e81639" x="77.3" y="245.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="77.3" y="260.5">148</text>
+<use xlink:href="#mca45e81639" x="180.1" y="245.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="180.1" y="260.5">296</text>
+<use xlink:href="#mca45e81639" x="282.8" y="245.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="282.8" y="260.5">592</text>
+<use xlink:href="#mca45e81639" x="385.6" y="245.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="385.6" y="260.5">1184</text>
+<use xlink:href="#mca45e81639" x="404.8" y="245.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="404.8" y="260.5">1348</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="241.1" y="274.5">trainable parameters (log)</text>
+<defs>
+<path id="mcc542e79f3" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#mcc542e79f3" x="60.9" y="221" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="224.8">0.625</text>
+<use xlink:href="#mcc542e79f3" x="60.9" y="192.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="196.1">0.650</text>
+<use xlink:href="#mcc542e79f3" x="60.9" y="163.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="167.4">0.675</text>
+<use xlink:href="#mcc542e79f3" x="60.9" y="134.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="138.7">0.700</text>
+<use xlink:href="#mcc542e79f3" x="60.9" y="106.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="110">0.725</text>
+<use xlink:href="#mcc542e79f3" x="60.9" y="77.5" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="81.3">0.750</text>
+<use xlink:href="#mcc542e79f3" x="60.9" y="48.8" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="53.9" y="52.6">0.775</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="18.9" y="136" transform="rotate(-90 18.9 136)">task B test accuracy</text>
+<path d="M 60.9 235.9 L 421.2 235.9" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #666666"/>
+<path d="M 60.9 89.5 L 421.2 89.5" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #adb5bd; stroke-width: 1.2"/>
+<path d="M 60.9 245.9 L 60.9 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 421.2 245.9 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 60.9 245.9 L 421.2 245.9" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 60.9 26.2 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<defs>
+<path id="m24634a8dda" d="M 0 3.9 C 1 3.9 2 3.5 2.7 2.7 C 3.5 2 3.9 1 3.9 0 C 3.9 -1 3.5 -2 2.7 -2.7 C 2 -3.5 1 -3.9 0 -3.9 C -1 -3.9 -2 -3.5 -2.7 -2.7 C -3.5 -2 -3.9 -1 -3.9 0 C -3.9 1 -3.5 2 -2.7 2.7 C -2 3.5 -1 3.9 0 3.9 z" style="stroke: #8ecae6"/>
+</defs>
+<use xlink:href="#m24634a8dda" x="77.3" y="75.8" style="fill: #8ecae6; stroke: #8ecae6"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="82.3" y="70.8">r=1</text>
+<defs>
+<path id="m1ce93594d5" d="M 0 3.9 C 1 3.9 2 3.5 2.7 2.7 C 3.5 2 3.9 1 3.9 0 C 3.9 -1 3.5 -2 2.7 -2.7 C 2 -3.5 1 -3.9 0 -3.9 C -1 -3.9 -2 -3.5 -2.7 -2.7 C -3.5 -2 -3.9 -1 -3.9 0 C -3.9 1 -3.5 2 -2.7 2.7 C -2 3.5 -1 3.9 0 3.9 z" style="stroke: #219ebc"/>
+</defs>
+<use xlink:href="#m1ce93594d5" x="180.1" y="56.8" style="fill: #219ebc; stroke: #219ebc"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="185.1" y="51.8">r=2</text>
+<defs>
+<path id="me952cf5e01" d="M 0 3.9 C 1 3.9 2 3.5 2.7 2.7 C 3.5 2 3.9 1 3.9 0 C 3.9 -1 3.5 -2 2.7 -2.7 C 2 -3.5 1 -3.9 0 -3.9 C -1 -3.9 -2 -3.5 -2.7 -2.7 C -3.5 -2 -3.9 -1 -3.9 0 C -3.9 1 -3.5 2 -2.7 2.7 C -2 3.5 -1 3.9 0 3.9 z" style="stroke: #126782"/>
+</defs>
+<use xlink:href="#me952cf5e01" x="282.8" y="36.1" style="fill: #126782; stroke: #126782"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="287.8" y="31.1">r=4</text>
+<defs>
+<path id="m47baebb3a0" d="M 0 3.9 C 1 3.9 2 3.5 2.7 2.7 C 3.5 2 3.9 1 3.9 0 C 3.9 -1 3.5 -2 2.7 -2.7 C 2 -3.5 1 -3.9 0 -3.9 C -1 -3.9 -2 -3.5 -2.7 -2.7 C -3.5 -2 -3.9 -1 -3.9 0 C -3.9 1 -3.5 2 -2.7 2.7 C -2 3.5 -1 3.9 0 3.9 z" style="stroke: #023047"/>
+</defs>
+<use xlink:href="#m47baebb3a0" x="385.6" y="55.1" style="fill: #023047; stroke: #023047"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="390.6" y="50.1">r=8</text>
+<defs>
+<path id="m035bf38531" d="M -4.5 4.5 L 4.5 4.5 L 4.5 -4.5 L -4.5 -4.5 z" style="stroke: #e76f51"/>
+</defs>
+<use xlink:href="#m035bf38531" x="404.8" y="55.1" style="fill: #e76f51; stroke: #e76f51"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="241.1" y="20.2">LoRA rank sweep vs full fine-tune</text>
+<path d="M 297.8 241.9 L 415.6 241.9 Q 417.2 241.9 417.2 240.3 L 417.2 205.1 Q 417.2 203.5 415.6 203.5 L 297.8 203.5 Q 296.2 203.5 296.2 205.1 L 296.2 240.3 Q 296.2 241.9 297.8 241.9 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<use xlink:href="#m035bf38531" x="307.4" y="210.7" style="fill: #e76f51; stroke: #e76f51"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="321.8" y="212.8">full fine-tune</text>
+<path d="M 299.4 222 L 307.4 222 L 315.4 222" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #666666"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="321.8" y="224.8">base, no adaptation</text>
+<path d="M 299.4 234 L 307.4 234 L 315.4 234" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #adb5bd; stroke-width: 1.2"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="321.8" y="236.8">train from scratch on B</text>
+</svg>
