@@ -1,0 +1,49 @@
+{
+  "project": "ai-learn-11-lora-scratch",
+  "seed": 42,
+  "config": {
+    "d_in": 16,
+    "d_hidden": 64,
+    "n_classes": 4,
+    "n_pretrain": 8000,
+    "n_adapt": 200,
+    "n_test": 2000,
+    "pretrain_epochs": 80,
+    "pretrain_lr": 0.003,
+    "adapt_epochs": 60,
+    "lora_lr": 0.01,
+    "full_ft_lr": 0.003,
+    "batch_pretrain": 64,
+    "batch_adapt": 32,
+    "ranks": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "alpha_equals_rank": true,
+    "shift_rank": 2,
+    "shift_scale": 0.7
+  },
+  "pretrain_acc_A": 0.8645,
+  "zero_shot_acc_B": 0.612,
+  "lora_acc_B": {
+    "lora_r1": 0.7515,
+    "lora_r2": 0.768,
+    "lora_r4": 0.786,
+    "lora_r8": 0.7695
+  },
+  "lora_trainable_params": {
+    "lora_r1": 148,
+    "lora_r2": 296,
+    "lora_r4": 592,
+    "lora_r8": 1184
+  },
+  "full_ft_acc_B": 0.7695,
+  "full_ft_trainable_params": 1348,
+  "scratch_acc_B": 0.7395,
+  "max_merge_logit_diff": 2.1316282072803006e-14,
+  "base_weights_unchanged_after_lora": true,
+  "runtime_s": 1.184,
+  "pass": true
+}
